@@ -11,6 +11,9 @@ body{
 h2,h3{
 	text-align:center;
 }
+a{
+	text-decoration-line:none;
+}
 .player_two{
 	background-color:white;
 	display:flex;
